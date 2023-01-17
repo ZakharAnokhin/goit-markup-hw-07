@@ -556,11 +556,12 @@ screen and (min-width: 768px) and (min-resolution: 2dppx) {
   gap: 24px;
 }
 
-.products {
+.products .list{
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
 }
+
 @media screen and (min-width: 1200px) {
   .products {
     display: block;
