@@ -335,7 +335,7 @@ body {
 
 .hero {
   padding: 192px 0;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-bg-mobile.jpg);
+  background-image: url(../images/hero-bg-mobile.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -551,12 +551,6 @@ screen and (min-width: 768px) and (min-resolution: 2dppx) {
 .advantages-title .list,
 .products .list,
 .team .list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-}
-
-.products .list{
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
@@ -940,7 +934,7 @@ screen and (min-width: 768px) and (min-resolution: 2dppx) {
 
 @media screen and (min-width: 768px) {
   .social {
-    margin-right: auto;
+    margin-right: 83px;
   }
 }
 
