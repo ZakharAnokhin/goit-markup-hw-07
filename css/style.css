@@ -935,7 +935,7 @@ screen and (min-width: 768px) and (min-resolution: 2dppx) {
 }
 
 .social{
-  margin-right: auto;
+  margin-right: 83px;
 }
 
 @media screen and (min-width: 768px) {
