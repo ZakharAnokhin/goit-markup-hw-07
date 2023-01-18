@@ -780,7 +780,7 @@ screen and (min-width: 768px) and (min-resolution: 2dppx) {
 
 @media screen and (min-width: 768px) {
   .work-examples {
-    column-gap: var(--primary-margin-btwn-items);
+    column-gap: 24px;
     row-gap: calc(3 * var(--primary-margin-btwn-items));
   }
 }
