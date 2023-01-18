@@ -15,6 +15,7 @@ html {
   --dark: #2e2f42;
   --primary-text-color: #434455;
   --secondary-text-color: #ffffff;
+  --primary-margin-btwn-items: 24px;
 }
 
 /* Reset */
